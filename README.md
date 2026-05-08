@@ -6,7 +6,7 @@ This project performs Exploratory Data Analysis (EDA) on a Diwali Sales dataset 
 
 The analysis is performed using Jupyter Notebook with the help of popular Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 
-Objectives
+# Objectives
 Clean and preprocess the dataset
 Perform Exploratory Data Analysis (EDA)
 Understand customer purchasing behavior
@@ -25,7 +25,9 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
-Dataset Information
+
+
+# Dataset Information
 
 The dataset contains customer transaction and demographic details related to Diwali sales, including:
 
@@ -45,22 +47,24 @@ Married women were among the most active buyers.
 IT, Healthcare, and Aviation professionals showed strong purchasing behavior.
 Food, Clothing, and Electronics categories performed well during sales.
 Project Structure
-Diwali-Sales-Analysis/
+Diwali-Sales-Analysis/  
 │
 ├── Diwali_Sales_Analysis.ipynb
 ├── Diwali Sales Data.csv
 ├── README.md
-└── images/
+└── images/  
+
 How to Run the Project
-Clone the repository
+1. Clone the repository
 git clone <your-repository-link>
-Install required libraries
+2. Install required libraries
 pip install pandas numpy matplotlib seaborn
-Open Jupyter Notebook
+3. Open Jupyter Notebook
 jupyter notebook
-Run the notebook file
+4. Run the notebook file
 Diwali_Sales_Analysis.ipynb
-Sample Visualizations
+
+# Sample Visualizations
 
 The project includes multiple visualizations such as:
 
